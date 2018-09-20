@@ -1,0 +1,15 @@
+#color {
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+    position: absolute;
+    top: 0;
+    display: none;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
